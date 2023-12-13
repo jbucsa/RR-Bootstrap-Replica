@@ -13,7 +13,7 @@
 import './App.css';
 import TopBar from './components/TopBar';
 import Background from './components/Background';
-import StoresList from './components/StoresList';
+import StoresList from './components/StoreListings';
 
 
 function App() {
@@ -26,4 +26,4 @@ function App() {
   );
 };
 
-export default App;
+export default App;;
